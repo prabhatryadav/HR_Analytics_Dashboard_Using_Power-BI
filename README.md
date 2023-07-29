@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard-Using-Power-BI
+# HR Analytics Dashboard Using Power BI
 
 • Analyzed the dataset of an organization and provided insights to improve employee performance and improve employee retention (reduce attrition) by creating an 
   analytic dashboard.
